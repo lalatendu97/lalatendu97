@@ -7,14 +7,14 @@
  
 - I recently completed my Master's thesis at ETH Zürich with [SCAI Lab](https://scai.ethz.ch) focusing on computer vision for safe autonomous wheelchair navigation
 
-- 🥇 I was part of the winning team at [Datathon](https://www.datathon.ai), where we developed a learnign-based models within 24 hours for feature prediction
+- 🥇 I was part of the winning team at [Datathon](https://www.datathon.ai), where we developed a learning-based models within 24 hours for electricity consumption prediction
   - checkout the aftermove 🎥 [here](https://www.youtube.com/watch?v=OtboiH0cJPs)
 
-- 💼 In the past, I completed two internships in algorithms for autonomous driving with reputed institutions, including [Bosch GmbH](https://www.bosch-mobility.com/de/mobility-themen/adas/), Germany
+- 💼 In the past, I completed two internships in trajectory planning algorithms for autonomous driving with reputed institutions, including [Bosch GmbH](https://www.bosch-mobility.com/de/mobility-themen/adas/), Germany
  
 - 📱 I’m currently learning app development for android and ios using **Flutter** through a small project with a friend
   
-- I have a B1 certification in **German** 🇩🇪 but I'm consistently imrpoving on my lagnguage skills
+- I am proficient in **English** 🇬🇧 and have a B1 certification in **German** 🇩🇪 but I'm consistently imrpoving on my lagnguage skills
 
 - 📫 How to reach me **lalatendu.bal@rwth-aachen.de**
 
