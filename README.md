@@ -12,7 +12,9 @@
 
 - 💼 In the past, I completed two internships in trajectory planning algorithms for autonomous driving with reputed institutions, including [Bosch GmbH](https://www.bosch-mobility.com/de/mobility-themen/adas/), Germany
  
-- 📱 I’m currently learning app development for android and ios using **Flutter** through a small project with a friend
+- 📱 I’m currently learning app development for android and ios using **Flutter** through a small project
+
+  - We are developing an app that enables carpooling for daily commute. Checkout the repo [here](https://github.com/lalatendu97/charlet)
   
 - I am proficient in **English** 🇬🇧 and have a B1 certification in **German** 🇩🇪 but I'm consistently imrpoving on my lagnguage skills
 
