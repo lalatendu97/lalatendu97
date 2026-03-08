@@ -1,11 +1,11 @@
 # Lalatendu Bal
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lalatendu97)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/lalatendu97)&nbsp;&nbsp;&nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/https://leetcode.com/u/lalatendub7/) &nbsp; <a href="mailto:lalatendu.b97@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" width="100" alt="gmail logo"  /></a>
-<table border="0">
+<table border="0" cellpadding="8" cellspacing="0">
   <tr>
     <td valign="top" width="20%">
     <h3 align="center">Programming</h3>
-    <table>
+    <table border="0">
       <td align="center" width="96">
         <a href="https://www.python.org" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/><br>Python
@@ -40,7 +40,7 @@
 
   <td valign="top" width="40%">
   <h3 align="center">Robotics, AI & Simulation</h3>
-  <table>
+  <table border="0">
     <tr>
       <td align="center" width="96">
         <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
@@ -94,7 +94,7 @@
 
   <td valign="top" width="40%">
   <h3 align="center">Tools, Systems & Deployment</h3>
-  <table>
+  <table border="0">
     <tr>
       <td align="center" width="96">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
