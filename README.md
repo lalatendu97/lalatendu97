@@ -150,74 +150,27 @@ Enthusiast in computer vision and machine learning for robotics and autonomous s
 <table>
   <tr>
     <td width="40%" align="center">
-      <img src="./assets/project1.gif" alt="Project 1 demo" width="250"/><br>
+      <img src="./assets/amz.jpg" alt="Project 1 demo" width="250"/><br>
       <b>Autonomous Navigation Robot</b>
     </td>
     <td width="60%">
-      <b>My Contribution:</b>
-      <ul>
-        <li>Built the ROS-based navigation pipeline.</li>
-        <li>Integrated perception, path planning, and obstacle avoidance.</li>
-        <li>Tested the system in simulation and improved navigation reliability.</li>
-      </ul>
-      <b>Tech:</b> ROS, Gazebo, OpenCV, Python, C++
+      <b>AMZ Racing Driverless</b><br>
+        Formula student team at ETH Zürich for developing a driverless race to compete in international competitions.
     </td>
   </tr>
 
   <tr>
     <td width="40%" align="center">
-      <img src="./assets/project2.png" alt="Project 2 result" width="250"/><br>
-      <b>Object Detection Pipeline</b>
-    </td>
-    <td width="60%">
-      <b>My Contribution:</b>
-      <ul>
-        <li>Developed the training and evaluation pipeline for detection models.</li>
-        <li>Processed datasets and improved inference workflow.</li>
-        <li>Visualized model outputs and compared performance metrics.</li>
-      </ul>
-      <b>Tech:</b> PyTorch, OpenCV, NumPy, Matplotlib
-    </td>
-  </tr>
-</table>
-
-
-<h1 align="left">Project Highlights</h1>
-
-<table>
-  <tr>
-    <td width="40%" align="center">
-      <img src="./assets/project1.gif" alt="Project 1 demo" width="250"/><br>
+      <img src="./assets/charlet.gif" alt="Project 1 demo" width="250"/><br>
       <b>Autonomous Navigation Robot</b>
     </td>
     <td width="60%">
-      <b>My Contribution:</b>
-      <ul>
-        <li>Built the ROS-based navigation pipeline.</li>
-        <li>Integrated perception, path planning, and obstacle avoidance.</li>
-        <li>Tested the system in simulation and improved navigation reliability.</li>
-      </ul>
-      <b>Tech:</b> ROS, Gazebo, OpenCV, Python, C++
+      <b>Charlet Carsharing</b><br>
+        Simple solution for sharing car rides your daily commutes more interesting in switzerland .
     </td>
   </tr>
 
-  <tr>
-    <td width="40%" align="center">
-      <img src="./assets/project2.png" alt="Project 2 result" width="250"/><br>
-      <b>Object Detection Pipeline</b>
-    </td>
-    <td width="60%">
-      <b>My Contribution:</b>
-      <ul>
-        <li>Developed the training and evaluation pipeline for detection models.</li>
-        <li>Processed datasets and improved inference workflow.</li>
-        <li>Visualized model outputs and compared performance metrics.</li>
-      </ul>
-      <b>Tech:</b> PyTorch, OpenCV, NumPy, Matplotlib
-    </td>
-  </tr>
 </table>
-
 
 
 ![](https://github-readme-stats.vercel.app/api?username=lalatendu97&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
